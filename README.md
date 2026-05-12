@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Huu Hieu (@huuhieu06)
 
 - 👀 I’m interested in coding, web development and exploring electronic circuit
-- 🌱 I’m currently learning C++, Python, HTML, CSS, Js
+- 🌱 I’m currently learning C++, Python, HTML, CSS, Javascript
 - 🔧 Tools: Git, VS Code, Proteus, LTSpice
 - 📫 How to reach me:
   - Telegram: [@huuhieu206](https://t.me/huuhieu206)
