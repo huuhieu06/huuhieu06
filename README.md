@@ -9,4 +9,4 @@
   - Zalo: 0705466191
 - 👨‍💻 Pronouns: he/him
 - ⚡ Fun fact: I love turning ideas into tools — from a simple script to a full-blown project!
-- [See for more](https://huuhieu06.github.io/web-profile)
+
